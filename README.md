@@ -14,6 +14,7 @@
 
 <div  >
 
+[![My Skills](https://skillicons.dev/icons?html,css,bootstrap,js,jquery,git,github)](https://skillicons.dev)
+<br/>
 
 </div>
-
