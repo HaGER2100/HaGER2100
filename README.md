@@ -30,3 +30,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
 
 </div>
+
+### Contact me:
+
+
+<a href="www.linkedin.com/in/
+hageer-hamed-053aa9234
+" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="[https://www.instagram.com/absphreak](https://www.instagram.com/hageerhamed?igsh=MWRoaHFheWw0bmRzeg==)" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="[https://twitter.com/ABSphreak](https://twitter.com/HagarH48060)" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+
+
+
