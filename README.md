@@ -1,6 +1,6 @@
 
 
-<h3 align="center">
+<h3 align="left">
   <span>Hi 👋! My name is Hager Hamed and I'm a Front End Developer </span>
 
 </h3>
